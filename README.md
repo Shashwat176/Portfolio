@@ -1,3 +1,3 @@
 # Portfolio
-Credits
+*Credits
 Jatin https://github.com/jxtin
