@@ -1,6 +1,6 @@
 import React from "react";
 // import { HiLightBulb } from "react-icons/hi";
-import "./Fun.scss";
+import "./style.css";
 class Fun extends React.Component {
   constructor(props) {
     super(props);
